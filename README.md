@@ -9,6 +9,6 @@ If you find this code useful for your research, please consider citing:
   title={DirecFormer: A Directed Attention in Transformer Approach to Robust Action Recognition},
   author={Truong, Thanh-Dat and Bui, Quoc-Huy and Duong, Chi Nhan and Seo, Han-Seok and Phung, Son Lam and Li, Xin and Luu, Khoa},
   booktitle={Computer Vision and Pattern Recognition},
-  year={2021}
+  year={2022}
 }
 ```
